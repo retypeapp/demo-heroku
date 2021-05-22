@@ -1,0 +1,24 @@
+{
+  "input": ".",
+  "output": ".retype",
+  "branding":
+  {
+    "title": "Heroku & Retype",
+    "label": "Demo"
+  },
+  "links": [
+    {
+      "text": "Configuration",
+      "link": "https://retype.com/hosting/heroku/",
+      "icon": "gear"
+    }, {
+      "text": "GitHub",
+      "link": "https://github.com/retypeapp/demo-heroku",
+      "icon": "git-compare"
+    }
+  ],
+  "footer":
+  {
+    "copyright": "&copy; Copyright {{ year }}. All rights reserved."
+  }
+}
